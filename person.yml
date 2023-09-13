@@ -1,0 +1,11 @@
+person: 
+name:
+first_name: Anna
+last_name: Persson
+age: 30
+class: Matte
+start_year: 2010
+hobbies:
+-Reading
+-Hiking
+-Painting 

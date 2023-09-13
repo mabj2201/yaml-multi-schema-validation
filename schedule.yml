@@ -1,0 +1,10 @@
+schedule: 
+year: "2023"
+program: "Skola"
+lessons:
+- date: "2023-09-14"
+description: "Matte"
+- date: "2023-09-15"
+description: "Science"
+- date: "2023-09-16"
+description: "History"

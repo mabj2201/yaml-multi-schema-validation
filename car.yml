@@ -1,0 +1,8 @@
+car:
+  manufacturer: Toyota
+  model: Camry
+  year: "2023"
+  attributes:
+    - Sedan
+    - Automatic
+  reg: XYZ123

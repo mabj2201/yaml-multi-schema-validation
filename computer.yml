@@ -1,0 +1,13 @@
+computer:
+cpu:
+manufacturer: Intel
+cores: 4
+frequency: 3.2
+memory: 
+manufacturer: Kingston
+size: 16
+type DDR4
+disk:
+manufacturer: Samsung
+size: 512
+type: SSD
